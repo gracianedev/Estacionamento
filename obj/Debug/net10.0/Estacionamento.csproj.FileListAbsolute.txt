@@ -1,0 +1,14 @@
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/obj/Debug/net10.0/Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/obj/Debug/net10.0/Estacionamento.AssemblyInfoInputs.cache
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/obj/Debug/net10.0/Estacionamento.AssemblyInfo.cs
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/obj/Debug/net10.0/Estacionamento.csproj.CoreCompileInputs.cache
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/bin/Debug/net10.0/Estacionamento
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/bin/Debug/net10.0/Estacionamento.dll
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/bin/Debug/net10.0/Estacionamento.pdb
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/obj/Debug/net10.0/Estacionamento.dll
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/obj/Debug/net10.0/refint/Estacionamento.dll
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/obj/Debug/net10.0/Estacionamento.pdb
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/bin/Debug/net10.0/Estacionamento.deps.json
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/bin/Debug/net10.0/Estacionamento.runtimeconfig.json
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/obj/Debug/net10.0/Estacionamento.genruntimeconfig.cache
+/Users/mac_gs/Documents/Projetos acadêmicos/Projeto C#/Estacionamento/obj/Debug/net10.0/ref/Estacionamento.dll
