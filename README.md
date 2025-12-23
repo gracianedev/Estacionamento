@@ -35,7 +35,7 @@ Este projeto foi fundamental para consolidar os seguintes pilares da programa√ß√
    git clone https://github.com/gracianedev/Estacionamento.git
 2. Entre na pasta do projeto:   
     ```bash
-    cd NomeDoProjeto
+    cd Estacionamento
 3. Execute o comando:   
     ```bash 
     dotnet run
